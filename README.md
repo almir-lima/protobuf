@@ -1,4 +1,4 @@
-# ProtoHelper — Lightweight Protobuf Serializer
+# ProtoHelper Free-Pacal — Lightweight Protobuf Serializer
 
 ## Overview
 
