@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="test_protohelper.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="26"/>
+        <CursorPos X="39" Y="35"/>
+        <UsageCount Value="116"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="contact_model.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="195"/>
+        <CursorPos X="8" Y="207"/>
+        <UsageCount Value="115"/>
+        <Bookmarks Count="1">
+          <Item0 Left="1" Top="1" ID="1"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../isoft_utils/isoft.protohelper.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="422"/>
+        <CursorPos X="5" Y="454"/>
+        <UsageCount Value="36"/>
+        <Bookmarks Count="1">
+          <Item0 X="24" Y="149" Left="1" Top="138" ID="1"/>
+        </Bookmarks>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/inc/varianth.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="91"/>
+        <CursorPos X="4" Y="59"/>
+        <UsageCount Value="3"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../icomercio_plus/3-infra/adapters/contact/adapter_contact_customer_reference.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="4" Y="9"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="protohelper.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="17"/>
+        <UsageCount Value="53"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="7">
+      <Position>
+        <Filename Value="test_protohelper.lpr"/>
+        <Caret Line="100" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="test_protohelper.lpr"/>
+        <Caret Line="88" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="test_protohelper.lpr"/>
+        <Caret Line="12" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="test_protohelper.lpr"/>
+        <Caret Line="78" Column="21" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="test_protohelper.lpr"/>
+        <Caret Line="63" Column="16" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="test_protohelper.lpr"/>
+        <Caret Line="50" Column="32" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="test_protohelper.lpr"/>
+        <Caret Line="46" Column="31" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="test_protohelper.lpr"/>
+        <Caret Line="80" Column="31" TopLine="64"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="contact_model.pas"/>
+        <Line Value="1"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
